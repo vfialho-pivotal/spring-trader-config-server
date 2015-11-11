@@ -16,6 +16,7 @@ logging:
         pivotal: DEBUG
      com:
         netflix: WARN
+
 ---
 spring:
   profiles: cloud
